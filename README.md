@@ -14,7 +14,22 @@ I'm a passionate **Web Developer**  based in Berlin, with a strong background in
 - **Other:** CI/CD, Figma, Apache Velocity
 
 ## 🛠 Projects
-- **E-commerce Website** - Built with **SvelteKit** (TS) - [Live Site](https://commerce-website-psi.vercel.app)
+
+
+### ⭐ **E-commerce Website**
+A fullstack e-commerce platform packed with features such as:
+- **Product filtering, sorting, adding to cart, and wishlist**
+- **Product detail views and site-wide search**
+- **User authentication** with email and OAuth (GitHub, Google)
+- **Order tracking** based on user activity
+
+This website is constantly evolving, with new features being added regularly!
+
+**Tech Stack:** Svelte, SvelteKit, TypeScript, HTML, CSS, Tailwind, SQL, Drizzle, Vercel  
+[**Live Site**](https://commerce-website-psi.vercel.app)
+
+---
+
 - **Artist Portfolio** - Built with **Vue** (TS) / **Firebase** - [Live Site](https://jules-art.com)
 - **Blogging Platform** - Built with **React** (JS) / **Next.js** - [Live Site](https://blogging-platform-steel.vercel.app)
 - **Habit Tracker** - Built with **Python** / **SQL** / **Vanilla JS** - [Live Site](http://pinkowskijakub.eu.pythonanywhere.com)
