@@ -31,6 +31,7 @@ This website is constantly evolving, with new features being added regularly!
 ---
 
 - **Artist Portfolio** - Built with **Vue** (TS) / **Firebase** - [Live Site](https://jules-art.com)
+- **Crypto Bot** - Built with **Python** - [Code]((https://github.com/Jakub-Pinkowski/crypto-bot))
 - **Blogging Platform** - Built with **React** (JS) / **Next.js** - [Live Site](https://blogging-platform-steel.vercel.app)
 - **Habit Tracker** - Built with **Python** / **SQL** / **Vanilla JS** - [Live Site](http://pinkowskijakub.eu.pythonanywhere.com)
 - **Links Page** - Built with **SvelteKit** (TS) / **Firebase** - [Live Site](https://links-page-rosy.vercel.app/jule)
